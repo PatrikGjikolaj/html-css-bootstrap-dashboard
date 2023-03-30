@@ -1,5 +1,7 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    margin: 0!important;
+}
+#side_bar {
+    background-color: #051e34;
+    background-image: url(../img/sidebar-bg.png);
 }
