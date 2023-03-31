@@ -12,23 +12,9 @@
 #h_navbar {
     height: 50px;
 }
-#scroll_content{
-    overflow-y: auto;
-}
-.white_text {
-    text-decoration: none;
-    color: white;
-}
-.black_text {
-    text-decoration: none;
-    color: black;
-}
 .avatar_pic {
     width: 20px;
 }
 .logo_pic {
     width: 30px;
-}
-.plus_menu {
-    font-size: 30px;
 }
