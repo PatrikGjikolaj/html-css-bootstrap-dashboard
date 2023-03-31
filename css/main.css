@@ -1,5 +1,6 @@
 * {
     margin: 0!important;
+    font-family: 'Roboto', sans-serif;
 }
 #side_bar {
     background-color: #051e34;
@@ -18,9 +19,16 @@
     text-decoration: none;
     color: white;
 }
+.black_text {
+    text-decoration: none;
+    color: black;
+}
 .avatar_pic {
     width: 20px;
 }
 .logo_pic {
     width: 30px;
+}
+.plus_menu {
+    font-size: 30px;
 }
