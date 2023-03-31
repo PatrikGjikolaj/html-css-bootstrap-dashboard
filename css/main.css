@@ -5,3 +5,22 @@
     background-color: #051e34;
     background-image: url(../img/sidebar-bg.png);
 }
+#main_content {
+    height: calc(100vh - 50px);
+}
+#h_navbar {
+    height: 50px;
+}
+#scroll_content{
+    overflow-y: auto;
+}
+.white_text {
+    text-decoration: none;
+    color: white;
+}
+.avatar_pic {
+    width: 20px;
+}
+.logo_pic {
+    width: 30px;
+}
